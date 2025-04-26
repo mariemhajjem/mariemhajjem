@@ -1,4 +1,4 @@
-### Hi there 👋, I am @mariemhajjem! 😁
+### Hi there 👋, I am @mariemhajjem, a passionate software engineer! 😁
 - 📫 How to reach me mariemhajjem10@gmail.com
 <!--
 **mariemhajjem/mariemhajjem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
